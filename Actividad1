@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<factura> 
+<cliente> 
+<nombre></nombre> 
+<telefono></telefono> 
+</cliente> 
+<articulos> 
+<blusa color=”rojo” talla=”s”> 
+<blusa color=”verde” talla=”m”> 
+<blusa color=”verde” talla=”l”> 
+</articulos> 
+<precio-total><precio-total>
+</factura> 
